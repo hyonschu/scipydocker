@@ -1,0 +1,12 @@
+scipy
+matplotlib 
+ipython
+jupyter
+pandas 
+Bottleneck
+patsy
+pymc
+statsmodels 
+scikit-learn
+BeautifulSoup
+seaborn
