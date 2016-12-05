@@ -1,2 +1,2 @@
 # scipydocker
-Standard scientific Python environment used at Accenture Tech Labs
+Standard scientific Python environment deployable in Docker
